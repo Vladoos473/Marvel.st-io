@@ -1,0 +1,51 @@
+.halk{
+   background: linear-gradient(to bottom, #073d18 0%, #31ac26 100%);
+   border-radius: 29px;
+   width: 490px;
+   height: 340px;
+}
+.spiderman{
+   background: linear-gradient(to bottom, #661010 0%, #c51010 100%);
+   border-radius:20px ;
+   width: 490px;
+   height: 340px;
+   margin-left: 560px;
+   margin-top: -340px;
+}
+.black{
+   border-radius:29px ;
+   width: 490px;
+   height: 340px;
+   background: linear-gradient(to bottom, #751075 0%, #18071d 100%);
+   position: relative;
+   margin-left: 560px;
+   margin-top: -340px;
+}
+.capitan{
+   border-radius:29px ;
+   width: 490px;
+   height: 340px;
+   background: linear-gradient(to bottom, #121a96 0%, #5a045a 100%);
+   position:relative;
+   margin-top: 20px;
+}
+.div1{
+   margin-top: -730px;
+   position: absolute;
+   margin-left: 310px;
+}
+.div2{
+   margin-top: -370px;
+   position: absolute;
+   margin-left: 240px;
+}
+.div3{
+   margin-top: -730px;
+   position: absolute;
+   margin-left: 830px;
+}
+.div4{
+   margin-top: -370px;
+   position: absolute;
+   margin-left: 820px;
+}
